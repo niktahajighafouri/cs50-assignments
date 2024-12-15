@@ -1,2 +1,6 @@
 # cs50-assignments
-submitions
+<<submitions>>
+week 0 :
+        -indoor
+        -playback speed
+        -making faces
